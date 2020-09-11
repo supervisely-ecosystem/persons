@@ -53,7 +53,7 @@ The full version contains 5711 images.
 
 ## Examples
 
-![]() ![](h) ![]()
+![]() ![]() ![]()
 
 ## How To Import
 
