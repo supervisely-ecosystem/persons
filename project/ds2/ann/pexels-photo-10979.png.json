@@ -1,0 +1,80 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 800,
+        "width": 1188
+    },
+    "objects": [
+        {
+            "id": 511625183,
+            "classId": 1846336,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "anna@supervise.ly",
+            "createdAt": "2020-09-11T08:57:16.643Z",
+            "updatedAt": "2020-09-11T08:57:16.643Z",
+            "tags": [],
+            "classTitle": "person_bmp",
+            "bitmap": {
+                "data": "eJwBiQF2/olQTkcNChoKAAAADUlIRFIAAABLAAAA3AEDAAAAAuPOUgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAExSURBVHic1dZdTsQgEAdwNjXhkRvIUTgaPRrGi5B4gRofrAlhpNv5Z1p32upudGNf+ksDw/BRwJj2xGzw0AB1NIKWCuioKvRECsOKPTP+gPT71BsOai/8RucXLFKtKpSGT41ppm3MCECYgZYNR5uKchL2zDRnQCgcziyoxYVnTe11zCTMiHUOAY4rul2WOdtt1m8wXJLuyAj292ISZszgxHgN07XpBKFX6RSaY2Jx1SMWWak6R/wWKw4rYvzyJrnL6Yj9EY3G+qfUc/jHvGVIgkovdCqtsPvKwlvxu/ANOzTRi8pnMMpXnUHKBnpSmXB2eOpxJq0Z+ZxxlJYkMCu0jRUcaJfdBl+XLPv82KddcsQVZGK+ie02Ew85aAyXPAlNI0cwURhGn5h+eGQZlx+m1yc6nAgOBG2/8wAAAABJRU5ErkJgghkbqNM=",
+                "origin": [
+                    539,
+                    263
+                ]
+            }
+        },
+        {
+            "id": 511625182,
+            "classId": 1846337,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "anna@supervise.ly",
+            "createdAt": "2020-09-11T08:57:16.643Z",
+            "updatedAt": "2020-09-11T08:57:16.643Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "points": {
+                "exterior": [
+                    [
+                        578,
+                        463
+                    ],
+                    [
+                        578,
+                        483
+                    ],
+                    [
+                        584,
+                        486
+                    ],
+                    [
+                        593,
+                        481
+                    ],
+                    [
+                        600,
+                        461
+                    ],
+                    [
+                        594,
+                        448
+                    ],
+                    [
+                        587,
+                        459
+                    ],
+                    [
+                        584,
+                        467
+                    ],
+                    [
+                        578,
+                        463
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

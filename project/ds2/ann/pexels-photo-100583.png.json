@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 800,
+        "width": 1200
+    },
+    "objects": [
+        {
+            "id": 511625227,
+            "classId": 1846336,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "anna@supervise.ly",
+            "createdAt": "2020-09-11T08:57:16.643Z",
+            "updatedAt": "2020-09-11T08:57:16.643Z",
+            "tags": [],
+            "classTitle": "person_bmp",
+            "bitmap": {
+                "data": "eJwBVQSq+4lQTkcNChoKAAAADUlIRFIAAAH2AAAC1QEDAAAACPVR+gAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAP9SURBVHic7dxLcuMgEAZgp6ZqstQROIqOho/GUTQ3YDkL1zDKo5xEAtRNW2ra+tl/skU/QA/7cvkx3N+LaPg0SfhLSukq8MPsbwI/zl5wBm9ffx7N/teHj63+9cM3T+Hw6VuTwH36f41+/PQtM/j78pZ97RMw3sM3j8DmL+kevqYUGtJX+FoyYJzPeRB4P3t39/wamufsa/r4frbh6+P5CTRP/Z/0bXD9a/o5rkw/LHxgerfwE9OPCx+Z3i88twMkmf+19MwEWnlmAi3Dx02gZfi4CbAMHzMB1h/PS4Bl9LkBXHNWAFfRYwZwWbzv40r3Q84HoZ/oPhM+VgCznhHAMecZFZD3E9n7rKefQN7TMyjLGRMg9C/KPld+j/DXg3y2/A/0w04+EL1T9qOy98q+wK34Uvs4ypfK/yhfKv+j/LCXvx7jnbIf9/KB5r2yL3Ejvtg+iDtgqS+2j4N8sX2IPe0SbFD2zrgflb1X9kWu7mkXMPt57fO3Pn/w8Pt7D6/qR3jT3sGr+uHkvnz9Y8OXrx9t+PL1tw1f2UCcw3vjfhT6QdmXC9C6D/AiH+HhN8cADw+v5rXrX+rLG0gjflT2Q8kHG177BQipL14B0ni/PsDDw8Of1NO42JfuQJF/wgB/bu/ynpx/vfpgxJc2kFHZUwPQrY82fOURUDDuST2oY09KQamvvYMSjPtowbuyJwVQ21ee4ZMC2LOPBnytAVA60J6eEgBtXytg0gT07CkToO1dzcf+fa2AKS20b7/9U3SprxYw4QDavl4Aafu3dNrebfitPwPo3W8dQNtvFNDbmPb0mwmUNv5QQtu7bV89gLYnBLB6AG1PCWC1DWn7rSXgfVQmQNvTUrAyAWJPCUG1DWp7SghqEdD2pAhOxn0tBU34SgS1vaf4SgSFntQCKyeg7UlraCpnkLZ3RD916j3RlxYBZU9Mv1QKoNRT06dX78h+Mu7zHUjbe7LP39JU9vTy6dPTyyd/R/Ds3jF86NB7ho/9eUb62/eZApZ6TvrnCkDbu1P5AP9gz8u/2J1n1T/8yrPWH/M+swAoe178+vO8+rXu1wuY1Dvj3tv2vPSHf7Rnls9qA3N27+BVvWf6CP9Iz20/8M/lue1zuQGEl3kHD88afXl/Oh+M+/hIz15+FgUAL/Ps5Sf9LAD4433oyLsGH+FP7W8deX9Cn+CfxTcs/+l7A4fX8BH+1P7WjW/Z/sFr+wQv8wFe1Ud4VX9T9gle1wfjPsKr+puyT/C6PsCr+ggPr+/b7j+k+wIADw8Pzx/WfTDuI7zI37rwbc8f4eHh4eHhjXsHDw8Pf1LffAMQ/im82RtA8F345g0Y/HN4Bw8v8FbfQIF/jG9dgNT9f7vxvlm4P14PAAAAAElFTkSuQmCCJ+Q8ZQ==",
+                "origin": [
+                    696,
+                    69
+                ]
+            }
+        }
+    ]
+}

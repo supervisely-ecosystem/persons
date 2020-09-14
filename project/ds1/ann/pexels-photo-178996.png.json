@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 800,
+        "width": 1200
+    },
+    "objects": [
+        {
+            "id": 511624483,
+            "classId": 1846336,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "anna@supervise.ly",
+            "createdAt": "2020-09-11T08:57:16.643Z",
+            "updatedAt": "2020-09-11T08:57:16.643Z",
+            "tags": [],
+            "classTitle": "person_bmp",
+            "bitmap": {
+                "data": "eJwByAI3/YlQTkcNChoKAAAADUlIRFIAAAC9AAABUwEDAAAAViCfNQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAJwSURBVHic7dlLjqMwEABQEAuWPoKP4qPZo76Yd30NH8HLLBD0ZMCmXB+ICSFqTVjWU6hPYz7upsmHnaaxYY52+ns4Bvo7eAbUHSID5g4DA/YOTPZ/ubnsC9Ds3Q4EAr0EaoYowY2A3gHautkBOhNbDdNyPA/tBdC9AJyUHIP4i0vBvwH6XQhPg0oQXwc6AV6ErwC8bEVQxwEn7yXojkNEkNdHkMA/DU092GowC7iHQe8BjsugdoDeqfujQJ8fe0CfUSJ0/EWyD+Fx6KVT7fVRMfb0hyLZE5DWE5BzZcDnyoA7SXHcicqAktgVHIy3a7zM3gMoOtEAiivIACiSwDhcVF0BIHtfAOhdFwDKsgWsQ2mLOKi3zA3qVQhyvQZBrtciSPWi3Gu9PYZByJ3rxblzvTh3rpfEl3pJUalePJBcL6k2Aak2NaIpjEIbMkxCf0vrTHxuXQKm8XkmTOPzTFi48ROZQVXBwI9qA0ZhVDJM54KtAyeBPwJsXIZwAUT+sno7sJfu24FdN28HdRbczgT9u8B8AIP9AAY+/oEPvAgsD/ECCDKYs8BXgzsAmgfhrVaG8Qjwj+1BgrgB/HtJ2AD+/coJXxnbYKvBVIPmwEvfH176xtkEtsNwLojfavXA9hGkj7hNUNWgJTBVEA+BvQC4+H8M4XeBr4b6W9+8zL9JfJzhi8CwCU37h8CyrUZvAXEGWliQwC9gHwa3gEHxvNOo2TaY+0wGfMtatzmFNkhZPgPK7jKoEnIcZQcbvOV84b5zkR3uFRsIEUCRPQAohuIBFNkdgGIoMA6zl//pAC3GRvhJGV/Tk0391IrDsFSWmvgBabdnPIWH264AAAAASUVORK5CYIJvojuT",
+                "origin": [
+                    566,
+                    333
+                ]
+            }
+        }
+    ]
+}

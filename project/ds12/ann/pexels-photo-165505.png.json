@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 800,
+        "width": 1200
+    },
+    "objects": [
+        {
+            "id": 511624452,
+            "classId": 1846336,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "anna@supervise.ly",
+            "createdAt": "2020-09-11T08:57:16.643Z",
+            "updatedAt": "2020-09-11T08:57:16.643Z",
+            "tags": [],
+            "classTitle": "person_bmp",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtI+QBzHyAwkN7sn/ABSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5JzxdHEMqZgz9dJBwRYFHtYACX4ZzcYgDV7vzSJeCfnVCWe41H6uW3f6xMHKxTNqFh3bItqjN8u1b9OFYMb7CaJt7D3Ky9h7OooTJDb/eX63M7xksevjF2lKnWnml/yuWxQzTvrONENqs8iPJMuN0+8yx0bUF8lO9JujN8c9Rs6gPyLvpQM/m8GiiEvHarborq+dKHPvqgpPSkpa56anC7+tfp/6+/KOV+03lnezXdrWpMv0PGu7Ze7rsgXMy7U5T3paz595gKNKV21297+aP8WVJ88lx55h12Z49lxI8GMv0F8Mnq5+LuucEpoAdG53zg==",
+                "origin": [
+                    683,
+                    479
+                ]
+            }
+        },
+        {
+            "id": 511624451,
+            "classId": 1846336,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "anna@supervise.ly",
+            "createdAt": "2020-09-11T08:57:16.643Z",
+            "updatedAt": "2020-09-11T08:57:16.643Z",
+            "tags": [],
+            "classTitle": "person_bmp",
+            "bitmap": {
+                "data": "eJwBcwGM/olQTkcNChoKAAAADUlIRFIAAABWAAAAXQEDAAAABV8DdwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAEbSURBVHicjdIxjsMgEAXQQRR0yxE4CkeDLuUeYY8Sui33CrnBuqSwzHpmAP9k4yiWLD3ZGGa+h0iuUGleaZs0reVhe+8CXsD1mV1r64m3E7dh/+D8hkdxvM/tDY8G7AvPZtDh3iusGfbg8ODRcDxxArfnNuz23xbsxHmWMxy6P6YLhaIlsGPVEjis1PRY9n6bw2v3omt/1bLHt9pPV63lst/XSpa/5EK/Vml8Y3+uUqXsKs9tq+yrBJf0ZLEvNG3y4R5clRXa2e64HD+bR1wOv3FmheySOCvDL+0WebnhhJ3OEq8sfW7Z1emIsTevIyBl/ehv6YFI/Gem4UwjZHUEB7AHO7AFGzChEziCA9iBLZjQCRzA8gLHf8/nD2+UAOvsHdfrAAAAAElFTkSuQmCCi7ipEQ==",
+                "origin": [
+                    903,
+                    485
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 800,
+        "width": 600
+    },
+    "objects": [
+        {
+            "id": 511624395,
+            "classId": 1846336,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "anna@supervise.ly",
+            "createdAt": "2020-09-11T08:57:16.643Z",
+            "updatedAt": "2020-09-11T08:57:16.643Z",
+            "tags": [],
+            "classTitle": "person_bmp",
+            "bitmap": {
+                "data": "eJwBkgFt/olQTkcNChoKAAAADUlIRFIAAACDAAAAiAEDAAAA/pTK5gAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAE6SURBVHic7dSxccUgDABQOApKj8AoZDOTzehSZoQwgstf/LOCDRZI+lzIT7qEyn6HJSTLVqqsm2LL7lwcBCYAiYIGYIEMwJ0FBmChFwDgqYAl81niF7ICP9BfFvgdcUKOxtPOH8npO30YmG7RYosWs2L4K87TsykmYnT/10+XjlyM6LIRPwibv1n6LR93dFqkuCoJxVfZJuQm4ki5T8guBGYkTAiWuowlCdnGgpGxVD8WLHUdCxYPY7mK10JMkzAS2yROyNmOl1Z6KT5PZSdHeptaM8pjjkqu1VPJ6fI+X68/8MlL3lHWevU2Ia8oMJQgpT4em3gh9fChySLECqknU52cb2Xv5Sx6I6LP5L3knu+KCh2N78n6lPinxE3IIuSaQ4RrnrsfXv0K+p9ikdRJKSN24lngKi23+gRMx46aY0nQbgAAAABJRU5ErkJggsTlrro=",
+                "origin": [
+                    228,
+                    486
+                ]
+            }
+        },
+        {
+            "id": 511624394,
+            "classId": 1846336,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "anna@supervise.ly",
+            "createdAt": "2020-09-11T08:57:16.643Z",
+            "updatedAt": "2020-09-11T08:57:16.643Z",
+            "tags": [],
+            "classTitle": "person_bmp",
+            "bitmap": {
+                "data": "eJwB3gEh/olQTkcNChoKAAAADUlIRFIAAACIAAAAkwEDAAAAb2XDSQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAGGSURBVHictdY7bsMwDABQpRq0FPDazRcpoKv0CB07BJFuVh/FR/DoQRCrj21RJJIQRsohQJ4VirQ+iFItnCJxgZWIASBiAXwvADCRNABzJzrJQhOTyYYkgUnsZBRIKpAU/VLx/yHuvKjXSDwl4YlYtspSWToBKnmL9XvMsDEjk9I6nquk6aSsDe6iDsGJ7Cbldbyrurtr+Px4bkNqjWkCc0BOpCG035T5B4jQi4Uuwlb9I4lMQCJeIJMikBp7LotAViZBIFEgoMAyGahEQ+WqqXyWTYDenPrAO6o+JLvjkYxMBoEYgWgmF4EoiTgmViCjQIZ7gi4cw0QLZGuVH2d8TUmkNs8visdSWv3FkhuLdkGSU4deUh9LLynT3OSrFunzTVPju3y+qSY/e1GHXJncdpmOWrj4Tfwh8z1p/yfc1nNbUlff5qUtjotM6nAdkJTUZkVSBg2d5C9jJ+kK0+jKzrI6IJKDy3xKJoH4U6LOSGCyMmmt7+e2tbWfwNbEfnIUipyoLN8fHds6fyeg2X0AAAAASUVORK5CYIIPI84r",
+                "origin": [
+                    236,
+                    474
+                ]
+            }
+        }
+    ]
+}

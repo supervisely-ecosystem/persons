@@ -1,0 +1,96 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 800,
+        "width": 1200
+    },
+    "objects": [
+        {
+            "id": 511625211,
+            "classId": 1846336,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "anna@supervise.ly",
+            "createdAt": "2020-09-11T08:57:16.643Z",
+            "updatedAt": "2020-09-11T08:57:16.643Z",
+            "tags": [],
+            "classTitle": "person_bmp",
+            "bitmap": {
+                "data": "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",
+                "origin": [
+                    651,
+                    221
+                ]
+            }
+        },
+        {
+            "id": 511625210,
+            "classId": 1846337,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "anna@supervise.ly",
+            "createdAt": "2020-09-11T08:57:16.643Z",
+            "updatedAt": "2020-09-11T08:57:16.643Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "points": {
+                "exterior": [
+                    [
+                        815,
+                        328
+                    ],
+                    [
+                        874,
+                        337
+                    ],
+                    [
+                        903,
+                        333
+                    ],
+                    [
+                        922,
+                        321
+                    ],
+                    [
+                        942,
+                        283
+                    ],
+                    [
+                        942,
+                        260
+                    ],
+                    [
+                        924,
+                        240
+                    ],
+                    [
+                        919,
+                        231
+                    ],
+                    [
+                        835,
+                        219
+                    ],
+                    [
+                        816,
+                        233
+                    ],
+                    [
+                        798,
+                        288
+                    ],
+                    [
+                        802,
+                        314
+                    ],
+                    [
+                        815,
+                        328
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

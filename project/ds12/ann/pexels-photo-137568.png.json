@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 800,
+        "width": 1205
+    },
+    "objects": [
+        {
+            "id": 511624454,
+            "classId": 1846336,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "anna@supervise.ly",
+            "createdAt": "2020-09-11T08:57:16.643Z",
+            "updatedAt": "2020-09-11T08:57:16.643Z",
+            "tags": [],
+            "classTitle": "person_bmp",
+            "bitmap": {
+                "data": "eJwBWQGm/olQTkcNChoKAAAADUlIRFIAAABIAAAAcQEDAAAATFZ3YQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAEBSURBVHicndHBbcUgEARQkA8+ugR3kk0p6QR3FpfiEjhyQJ5gszuAZUVK/unJX8wsi3POfTj9eWyqCTt1qOZO8Y9aflVLbm2e/3okGxCZJ06VAKoAG3+QXgSwaMoPijpAr6RlpmVQHWalhGdL7XlYmc6Mb9WEoJqLatx6miSbQgoah50q0fVC2dkKEhWpr1I83fos32ZbX1Ne+G01QSjdqf+XNmp/0UHFhxy3268NdqdBaNqoWhJYEvoHsa0yelSNFkYLo4XRt45R1/PXklvpRZm6S5ZReNNVPMOKmyZYcVXUBfZKto5a/NBpF651TfKiwBNMfra1qTaTvpLwDdfrwA8hya5kzoIntQAAAABJRU5ErkJggk8NkhE=",
+                "origin": [
+                    756,
+                    397
+                ]
+            }
+        },
+        {
+            "id": 511624453,
+            "classId": 1846336,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "anna@supervise.ly",
+            "createdAt": "2020-09-11T08:57:16.643Z",
+            "updatedAt": "2020-09-11T08:57:16.643Z",
+            "tags": [],
+            "classTitle": "person_bmp",
+            "bitmap": {
+                "data": "eJwBIgHd/olQTkcNChoKAAAADUlIRFIAAAA2AAAAdQEDAAAAP0eAXAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAADKSURBVHictdJRDoMgDABQjEv4WeYFlngTudgSvJkchSPwyYeha0uZBuFrmz8vKKXUVik17oqfKWUNZO3HVd67L/Udg+TJQnYAiGd1x+kwiE7k4+aPqXKX9MXYMVSWa5ey1kqVpTQ3lI6/o1Gk8CfqHtl1YReFAS90RDHG6MStMXNSmtxEyFIdOso6Hms2iL5Vd9vpZ8K/XM/OFzfX0bflTuD/M6Fp4o4pe5UHxu5ZuEr7BohFS45o4OsHFqfd0n6cWptYX+nku6P4Nwq6F8uoflAKAAAAAElFTkSuQmCCj3R9pg==",
+                "origin": [
+                    741,
+                    390
+                ]
+            }
+        }
+    ]
+}

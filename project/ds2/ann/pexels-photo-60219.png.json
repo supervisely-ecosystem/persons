@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 800,
+        "width": 1066
+    },
+    "objects": [
+        {
+            "id": 511625244,
+            "classId": 1846336,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "anna@supervise.ly",
+            "createdAt": "2020-09-11T08:57:16.643Z",
+            "updatedAt": "2020-09-11T08:57:16.643Z",
+            "tags": [],
+            "classTitle": "person_bmp",
+            "bitmap": {
+                "data": "eJwBTASz+4lQTkcNChoKAAAADUlIRFIAAAGYAAABiwEDAAAAwLcWIwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAP0SURBVHic7dxL0pwgEABgKRcuWWSTHRdJFRdLFd4gV/ImIScI2f2Lv4aI4wN5SNOWDJnYqxnHTxhoQOdh04SDahl5JR5Mf2YbrvWAMCrXCK0/EOaRazTO6D6PEGOGio0qZDIzri1pdCFTcxvU3G6ZhsTMV4T5hjDfEeag/WOGIEyLMB3CsINJPDYfcJVvhGwamWnGeVIMERMZC0T3NDr1R0yrBxHN3Ijp9K/4shQ1B0tmG56v6bj1T6xykbWEjVt/Zhquj9ZZETfRlGPBNdgcKd4IQdPpwyUzaCbyMHUjEmimmj3r1kaM2z5cWyb0pnwzl/Ls6uAYd80qZhPqJMfQjUwlEIDZyDNzSCiB9oZpF4VGnmXIg2jfyIhhpvaddmJ8cZwVlG+EMcLdfcqD0YwvuR3UKlMbp0pLfJhKKO500PiCqdDDq9WSn1S7Pb7W6IdH5j066/EUPFijKZb3PT2xGpvGyXpoq5qJUrZ5aDXEHOdAWLWZnskmsbuJrUeSu64RaNlUyHxj9zvUWN2xHxrxUBY57MMt9tkVSMRA7Mh8ppZTynL2cBzeBAgwvWs4wtAkGVwyvqHfx0R6JF1S0CRaPEKOyvIaAFDWoQmWlgAmGPD9nzUuGq4yTjPAjInyBkysIfX/mjUZMj5KejdD/wWT8ZHibSwjb1OjWc/P+tvcpnIDJ1Wb9ja3aU7mW3+bqo28zbsY+maGLSbjPL6U4WdMxvUcxohCRp8x8MWEVGzac2aAmq5iQwsZVsjwQkYUMhuBT741G3EblHlBn4IXxzczpGLTnjTQxf7dDD1poCcIt6nbsNvsf8kxXG1kxWbgZczcTTWazyzzXLKW36NdbVTFRs7td51pF8NzTV/GmHW0VmN+uUbh5kshw57pNl+qK5DhWCORJuM/Mxgj5nSr0eidgf3HZEnRCs205/MyQWjgiW8p02KNWg3oK5OupBmmhxxqqGOGQkZCjfUQYtiLjLreRP6YkjaQq3S2DYDqDLcGJ3TieYURF5ulraBGVGzsvmfXGWKP5wtNhzWDZQALEMZY00HofzEvN2tTtfB2K2XW6SnDyP/csIKmP2OaggY4FrZn4jLDd4aBjC5jyL51S5lOA06WTYapSk1XsaFIIwsYhjTWTgRpZGzfJTjO2MkPMuK8aWoy7mR7oflwnkOMOms4rN1eYhjggk44x4UYt51YchHencQDTRcyia+0zB77D0CYu8ELgTBcu1WBGeWZHmEOyWT2NUkvwn7t0/1DQyaRO9Srfdr4ywBPGuKVkzYmEQoZZwPAsEKGup1O08a/Xcc1xrtPDkHcng1jGowRCMMRhiEM5p57NPMmVia67DvhjZkx+Nv+Aur2PdQngMJzAAAAAElFTkSuQmCCeZsBAA==",
+                "origin": [
+                    535,
+                    365
+                ]
+            }
+        }
+    ]
+}

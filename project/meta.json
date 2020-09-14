@@ -1,0 +1,37 @@
+{
+    "classes": [
+        {
+            "id": 826,
+            "title": "neutral",
+            "shape": "polygon",
+            "color": "#D2210A"
+        },
+        {
+            "id": 827,
+            "title": "person_bmp",
+            "shape": "bitmap",
+            "color": "#FF0099"
+        },
+        {
+            "id": 828,
+            "title": "person_poly",
+            "shape": "polygon",
+            "color": "#18FF00"
+        }
+    ],
+    "tags": [
+        {
+            "id": 2031,
+            "name": "multipart-person",
+            "color": "#131EEC",
+            "value_type": "none"
+        },
+        {
+            "id": 2030,
+            "name": "not-marked-people",
+            "color": "#DF1189",
+            "value_type": "none"
+        }
+    ],
+    "projectType": "images"
+}

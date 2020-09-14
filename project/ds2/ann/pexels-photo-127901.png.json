@@ -1,0 +1,84 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 800,
+        "width": 1199
+    },
+    "objects": [
+        {
+            "id": 511625207,
+            "classId": 1846336,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "anna@supervise.ly",
+            "createdAt": "2020-09-11T08:57:16.643Z",
+            "updatedAt": "2020-09-11T08:57:16.643Z",
+            "tags": [],
+            "classTitle": "person_bmp",
+            "bitmap": {
+                "data": "eJwBRwO4/IlQTkcNChoKAAAADUlIRFIAAACeAAAB4wEDAAAA6IA0kwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAALvSURBVHic5do9jpwwFABgIxcufYFIvkLKNJGvskfYMp0dpUiZI+Qo4SiWcgGXFAgHw2LM44Efs7BsEorRzCfg+Wf8gw1j01GFYBk8RAjdClVATtU91hB7Cw5YFbEByCO26+Dr8DIiDI+iGhCkSW8jSKjZRk9GkM+wje2ZWI3YXYDhlWhvxbqIL+UJKv6t0WPpvAf5YWyKKMgoL0CFob4Q2xPRkDFQkV+AAkN5HDsyBjrWZHRkbAooyDhf3l2LKmEo4q/jaDM0VOzCGjWKAUHzVhioWN2K/CFMGRLYmSjKW1FdgPohrP9dNO8PT8vmzxlVhm6NP2acG4IMT2sUXcKkHYq8nXFqxi23CDK2xn7keN7HbFL5REO3QJnK7bmA1T5+fAXaa/BTAXnCzwUUKfEaQ3UaziWvLILyWlQJRb2POiF3JHQLNCP6Moaj2GxgtcK2iNPA2c+rKv8qZAlTJ9J/b2hoM5QT1oy1a/ygE6oJXTYx3MffJdQhO05Ck2N9DuaWnmMfxHYHq38O+f+B4laUC2zI6DG0O6hym1pxGZs91Dk6MjIqNmRkCPp9lOtUbmDW4O/EmjEiWjKyx/CkReLLkf/NKA6jfecoX7C+GtVhdGT0F2B53VqSMZZ8G8B68DYasAE0YExCEfmEtoQVGWNv0ylYSSjGhEtYSVsYrkCxhZ6E32/Fbydj/B9+fStkd2LHYL1jWA1oiNgeQE3A2AwbDP0BVER0sSM6GWsSikNo4ycJGRU7DFsayqHjpqA6gu5s1OOKDwHN0JkTkQ3oFxhHIknAcSAjYDWiIqEf81VCPvxyYY3cB7jv58aZEEQFUMbi1BgGgP2VdpzrZmN5f6XlGAqI8X8sMTQA+xjdkCCA0zEjJ6PAUGKoZ5zzHhDMH+k9Eoe+/TPHMfMNv8Dgi7lStbxZHhzgmMl6iRrDgCDHUGCoMDQIoi/FcAwFhpKMUwkzBP0CkQKe0CEI3xjDCnPAliFoMYSGo0AMx3wvYhf/AEg8q4yw58yrAAAAAElFTkSuQmCCplRwFg==",
+                "origin": [
+                    233,
+                    157
+                ]
+            }
+        },
+        {
+            "id": 511625206,
+            "classId": 1846337,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "anna@supervise.ly",
+            "createdAt": "2020-09-11T08:57:16.643Z",
+            "updatedAt": "2020-09-11T08:57:16.643Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "points": {
+                "exterior": [
+                    [
+                        332,
+                        397
+                    ],
+                    [
+                        337,
+                        432
+                    ],
+                    [
+                        352,
+                        437
+                    ],
+                    [
+                        378,
+                        431
+                    ],
+                    [
+                        397,
+                        410
+                    ],
+                    [
+                        394,
+                        394
+                    ],
+                    [
+                        382,
+                        372
+                    ],
+                    [
+                        365,
+                        374
+                    ],
+                    [
+                        345,
+                        385
+                    ],
+                    [
+                        332,
+                        397
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 800,
+        "width": 1200
+    },
+    "objects": [
+        {
+            "id": 511624514,
+            "classId": 1846336,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "anna@supervise.ly",
+            "createdAt": "2020-09-11T08:57:16.643Z",
+            "updatedAt": "2020-09-11T08:57:16.643Z",
+            "tags": [],
+            "classTitle": "person_bmp",
+            "bitmap": {
+                "data": "eJwBugJF/YlQTkcNChoKAAAADUlIRFIAAADsAAABRAEDAAAAHiVAYAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAJiSURBVHic7dpBcqwgEAZgrVnMkrd8O3MTjiZH4ygcgaULSzI6M6jQ/cOIxqTKXmSRr0agu4HUxKpahq5QCNcjls6hzzvnOl7rBw883x7sFMv3DObnJkY2mG0R8wufmE9r42BeEixHdlu5zWG1jWuXw/piitW2T9+y2GLmOvnFXCfvwlyjJ7j+Aea2yaFjv/ZYYmyu4K+scRW9O1gT4eDCPdODe6YH90yv3DM9eDarItYbuMb8LujBbDDbIqZLJnFNEuwfTq8M85xzkueKkXlJcDOzhTMjOz3Bs1K78LZgolc/YY3ZRCw+YBtxg1libpccp82VcL3iqJVXWYl7NWAd8H3N4crEmsOKBxw+vQm4w9xjHjC7BKsVyyJuizjUoFkjtkutI+4xr/Jyi1ljNvl8/5iXKxNF3HzMXT7LmPt8bmNetnKsKXYJVkWsvRK9VMrGM9FLSbaeiV5KcpfL4kRuKB6OZHcoqyNZ78PySN40NbMLkztw3ibkLpiPLvrZvuAca8wGs92D5YncnsiM7sJML/0Ik3dBLjNd/mZWJ2Yn9mSBWWJuMfM6MpjZyGxOnswnZWJxIjd/luWf5RawOZK/ihjvoXIG+rsZHQ5lPCQZnTw95q7o3DKYNWaFmT3sm/HHwHE3rafj2E4dyN4kZvr1Y130yaOnBtaAq+dfa804w7Bsaux/+2QV36Ij/Juu1/9VfMsmvvmjvjdcjG8JXrS0IdmfYYrm127m/+9Yv5fFhdBIr7jiiiuuuIKKGr6GVMO3lG7obZvpYitj8IpTOVvA/G3+Zo1ZYQZa4axUeF0ns93O371mOU40BXq6AAAAAElFTkSuQmCCb3pRMw==",
+                "origin": [
+                    751,
+                    342
+                ]
+            }
+        },
+        {
+            "id": 511624513,
+            "classId": 1846337,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "anna@supervise.ly",
+            "createdAt": "2020-09-11T08:57:16.643Z",
+            "updatedAt": "2020-09-11T08:57:16.643Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "points": {
+                "exterior": [
+                    [
+                        934,
+                        430
+                    ],
+                    [
+                        913,
+                        413
+                    ],
+                    [
+                        902,
+                        420
+                    ],
+                    [
+                        903,
+                        445
+                    ],
+                    [
+                        900,
+                        513
+                    ],
+                    [
+                        911,
+                        567
+                    ],
+                    [
+                        945,
+                        583
+                    ],
+                    [
+                        969,
+                        583
+                    ],
+                    [
+                        990,
+                        560
+                    ],
+                    [
+                        990,
+                        517
+                    ],
+                    [
+                        970,
+                        479
+                    ],
+                    [
+                        964,
+                        454
+                    ],
+                    [
+                        943,
+                        435
+                    ],
+                    [
+                        934,
+                        430
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

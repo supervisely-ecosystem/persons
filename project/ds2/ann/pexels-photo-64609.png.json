@@ -1,0 +1,156 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 800,
+        "width": 1203
+    },
+    "objects": [
+        {
+            "id": 511625233,
+            "classId": 1846336,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "anna@supervise.ly",
+            "createdAt": "2020-09-11T08:57:16.643Z",
+            "updatedAt": "2020-09-11T08:57:16.643Z",
+            "tags": [],
+            "classTitle": "person_bmp",
+            "bitmap": {
+                "data": "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",
+                "origin": [
+                    652,
+                    204
+                ]
+            }
+        },
+        {
+            "id": 511625232,
+            "classId": 1846337,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "anna@supervise.ly",
+            "createdAt": "2020-09-11T08:57:16.643Z",
+            "updatedAt": "2020-09-11T08:57:16.643Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "points": {
+                "exterior": [
+                    [
+                        732,
+                        624
+                    ],
+                    [
+                        815,
+                        585
+                    ],
+                    [
+                        820,
+                        570
+                    ],
+                    [
+                        811,
+                        573
+                    ],
+                    [
+                        808,
+                        585
+                    ],
+                    [
+                        804,
+                        590
+                    ],
+                    [
+                        795,
+                        589
+                    ],
+                    [
+                        790,
+                        586
+                    ],
+                    [
+                        729,
+                        618
+                    ],
+                    [
+                        732,
+                        624
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 511625231,
+            "classId": 1846337,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "anna@supervise.ly",
+            "createdAt": "2020-09-11T08:57:16.643Z",
+            "updatedAt": "2020-09-11T08:57:16.643Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "points": {
+                "exterior": [
+                    [
+                        872,
+                        544
+                    ],
+                    [
+                        875,
+                        548
+                    ],
+                    [
+                        876,
+                        552
+                    ],
+                    [
+                        879,
+                        551
+                    ],
+                    [
+                        883,
+                        555
+                    ],
+                    [
+                        887,
+                        556
+                    ],
+                    [
+                        889,
+                        551
+                    ],
+                    [
+                        903,
+                        542
+                    ],
+                    [
+                        898,
+                        526
+                    ],
+                    [
+                        882,
+                        535
+                    ],
+                    [
+                        878,
+                        534
+                    ],
+                    [
+                        875,
+                        536
+                    ],
+                    [
+                        876,
+                        541
+                    ],
+                    [
+                        872,
+                        544
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 800,
+        "width": 526
+    },
+    "objects": [
+        {
+            "id": 511624437,
+            "classId": 1846336,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "anna@supervise.ly",
+            "createdAt": "2020-09-11T08:57:16.643Z",
+            "updatedAt": "2020-09-11T08:57:16.643Z",
+            "tags": [],
+            "classTitle": "person_bmp",
+            "bitmap": {
+                "data": "eJwBPQHC/olQTkcNChoKAAAADUlIRFIAAABtAAAAuQEDAAAAGJkjLAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAADlSURBVHic7dVBDoMgEAXQMS5YcgSu0Bt4NLhZPQpHYMnCOA0YgU+UVNuuyixI3sLv+E2UiISncjSXEswz0hWUzB65FFTMK5JN5sQQHWiRHllkhSiuOF+hPaMMdFfo71Fh1BFPl6yeKJRTNFtRY1cMTQ4Mr2zAmkdMEnjbdhkKbxSZ14g75qyNKUsjo3L0O1w+4HpC/TP26dOnz9/MwC2OHA/X4FBz//6LA1KbejmmPOK0U21cE004d07x35aoI2WmTYFhn5ouLXNOs9PHayvOTVqkQ/o7fDqgQtIj7pxIJekLtEjzAm8JtGItNzDDAAAAAElFTkSuQmCCMzF/pQ==",
+                "origin": [
+                    176,
+                    565
+                ]
+            }
+        },
+        {
+            "id": 511624436,
+            "classId": 1846336,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "anna@supervise.ly",
+            "createdAt": "2020-09-11T08:57:16.643Z",
+            "updatedAt": "2020-09-11T08:57:16.643Z",
+            "tags": [],
+            "classTitle": "person_bmp",
+            "bitmap": {
+                "data": "eJwBMAHP/olQTkcNChoKAAAADUlIRFIAAABTAAAAtgEDAAAAn/UjcgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAADYSURBVHic7dTBDcMgDAVQUA45MgKjMBrpZtkgK7QTJEcq0fyGtjYWEW0qVT3h05Mi/O0goZRSPiougKmBkdwBC7kH+IBBPmCF3R/tf+Raf1uxqbiv+Mi/kvMgWwtvV4FVtKe7MIWDiFpE1FlEjSJKehCxQ46lEfpiBHI5AtlW7Cr2b0xZOOA0HLtVq1atykoPFT2KVtgJe2F8Z114fj200t3OQ8XP9unNndfsSTrmtchprSmwRxt4xcUFXjH6wOPfsHca+frBqc8Fuf8JnBs12WzzUtbjW1B39vOHqmGACYcAAAAASUVORK5CYII+JIHD",
+                "origin": [
+                    139,
+                    561
+                ]
+            }
+        }
+    ]
+}

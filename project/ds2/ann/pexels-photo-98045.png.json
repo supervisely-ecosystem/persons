@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 800,
+        "width": 542
+    },
+    "objects": [
+        {
+            "id": 511625228,
+            "classId": 1846336,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "anna@supervise.ly",
+            "createdAt": "2020-09-11T08:57:16.643Z",
+            "updatedAt": "2020-09-11T08:57:16.643Z",
+            "tags": [],
+            "classTitle": "person_bmp",
+            "bitmap": {
+                "data": "eJwBIgTd+4lQTkcNChoKAAAADUlIRFIAAAHjAAAC/gEDAAAApBnuowAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAPKSURBVHic7dxJbqwwEAbgRFlkyRE4CkfDR/NROIKXLBCO3svEULbLWB4q/msbfRJxDdBu3C8vzrDW/bdQvFtrzVP8Zv/FUz3+1+tDbT9DPcLvX3p5gl+/sN3K6+8Lf7bq049WD/QPfrJsvxf+pNx+L/zJsv1iu0fjt4OOX7bhqJdYPR61idXzUUcv2xFHL9tp0aJrdThrFafHs9Zxej7rJQq/nnFkyi6LFjkZL4sWmbLLokWmbL5qlaR1jL7iqJRdExaXsmvC4lL2ftMxPXpNd1zCb+mOSvh014qvb+mOSvgdRyT8nu6YhN/THZPwe7pjEj4Qmp+ykdKKqydKa66ekzSF+QkntWFiqlj4mioWfrnQmlsuVKnx9UBq7nShNbdUR1qrEnqitebpmdZLCU1jbqk6NK9U6SbhFhtd5qmaV6p0k1hmqabpwaUVR495tOboKY9eOHpO0i6cqA0Du5okVXNa1NUkqZrTos4mSdScBk/TQybNGQ9pesylVW49tal1bj2L1W7MGaoVtXuk9qvNH9bu2xg0NPRf1uFHzVZ1+Am9WR28F7WrQ/94Te176oGGjtFLRa0a1v4ODekxSU9J2ouD+xZJ2vd4nqpDZZ6mc45zHdDuParKOoSr6gEaGrqeNi1r70SGzqK9zw5ytW5aT9DF9SBW+xq8be1rk8b17NZhXFWPYrXns0V27fkk2rj2LHrr2s2b187BCJ1NO0d6+3qCLq6Hv6aZb4FDQ0N3pw00NFvr9rXjYVFJ1dxjWNBP9EBq7qG9XvVE6kWAJjH7YGxFneN0aRk9kHoRoEcKsw/dN6eNBD1TmotranI71kjQ5Ba4hs6pR7F6lqrTft2hpqa/oyqjR7GaxOzfxKioaSxAO3D7epSqc523z659r3C3rSepevDgpnXaK/dpepKq/WcFQjfRitp/uCM0XGrqOaD9+w4V9RDC3o2Hitrf25/h3qaqqDnY3eI1NQs7Z7oA7ehxAdoxWCVousclaLrHRWjyniBDUz1eTBNdKkQTXSpF329IYvTtKz45+job5ejrgBGkrVxtxOpzj4vSm1h9mk6l9SpW72L1MWXC9CJWr2L1LlYfig26lNZitYEurjfoJwFdXmvo4tpAF9cbdHFtoctrDQ3NDgPdlV6hodmxQ0N3oL83B6GhoTPpBRoaGhoauqpeobvSOzQ0PxQ0NDsWaGgReoWGZscODc0PBQ3dgdbQ0CK0gYZmxwYNzQ9oaBlaQ0N3oA10cb1BQ3egLXRfWkNDd6ANtDC9itVbp3qHfhK9atWp1p3qpVf9AYXCwXUsG0hpAAAAAElFTkSuQmCCFEgG7w==",
+                "origin": [
+                    0,
+                    33
+                ]
+            }
+        }
+    ]
+}

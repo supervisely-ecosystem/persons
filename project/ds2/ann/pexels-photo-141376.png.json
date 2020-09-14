@@ -1,0 +1,220 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 800,
+        "width": 1422
+    },
+    "objects": [
+        {
+            "id": 511625204,
+            "classId": 1846336,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "anna@supervise.ly",
+            "createdAt": "2020-09-11T08:57:16.643Z",
+            "updatedAt": "2020-09-11T08:57:16.643Z",
+            "tags": [],
+            "classTitle": "person_bmp",
+            "bitmap": {
+                "data": "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",
+                "origin": [
+                    827,
+                    0
+                ]
+            }
+        },
+        {
+            "id": 511625203,
+            "classId": 1846337,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "anna@supervise.ly",
+            "createdAt": "2020-09-11T08:57:16.643Z",
+            "updatedAt": "2020-09-11T08:57:16.643Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "points": {
+                "exterior": [
+                    [
+                        861,
+                        608
+                    ],
+                    [
+                        754,
+                        603
+                    ],
+                    [
+                        727,
+                        648
+                    ],
+                    [
+                        705,
+                        735
+                    ],
+                    [
+                        761,
+                        796
+                    ],
+                    [
+                        1159,
+                        799
+                    ],
+                    [
+                        1171,
+                        769
+                    ],
+                    [
+                        1185,
+                        703
+                    ],
+                    [
+                        1181,
+                        635
+                    ],
+                    [
+                        1156,
+                        598
+                    ],
+                    [
+                        1084,
+                        575
+                    ],
+                    [
+                        1040,
+                        520
+                    ],
+                    [
+                        966,
+                        525
+                    ],
+                    [
+                        894,
+                        530
+                    ],
+                    [
+                        861,
+                        608
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 511625202,
+            "classId": 1846337,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "anna@supervise.ly",
+            "createdAt": "2020-09-11T08:57:16.643Z",
+            "updatedAt": "2020-09-11T08:57:16.643Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "points": {
+                "exterior": [
+                    [
+                        1314,
+                        626
+                    ],
+                    [
+                        1313,
+                        796
+                    ],
+                    [
+                        1335,
+                        799
+                    ],
+                    [
+                        1335,
+                        627
+                    ],
+                    [
+                        1339,
+                        539
+                    ],
+                    [
+                        1365,
+                        514
+                    ],
+                    [
+                        1401,
+                        488
+                    ],
+                    [
+                        1421,
+                        476
+                    ],
+                    [
+                        1415,
+                        439
+                    ],
+                    [
+                        1361,
+                        422
+                    ],
+                    [
+                        1354,
+                        401
+                    ],
+                    [
+                        1353,
+                        359
+                    ],
+                    [
+                        1341,
+                        342
+                    ],
+                    [
+                        1318,
+                        343
+                    ],
+                    [
+                        1303,
+                        362
+                    ],
+                    [
+                        1304,
+                        398
+                    ],
+                    [
+                        1294,
+                        424
+                    ],
+                    [
+                        1235,
+                        439
+                    ],
+                    [
+                        1133,
+                        446
+                    ],
+                    [
+                        1096,
+                        456
+                    ],
+                    [
+                        1203,
+                        481
+                    ],
+                    [
+                        1263,
+                        488
+                    ],
+                    [
+                        1296,
+                        514
+                    ],
+                    [
+                        1310,
+                        541
+                    ],
+                    [
+                        1314,
+                        626
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
