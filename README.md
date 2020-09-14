@@ -26,7 +26,7 @@
 
 Full version of `Persons Labeled ` contains 5711 images with annotated person instances (see <a href="#download">download</a> section). This repository is a sample with 595 images. Read more in our <a href="https://hackernoon.com/releasing-supervisely-person-dataset-for-teaching-machines-to-segment-humans-1f1fc1f28469">blog post</a>.
 
-![]()
+![](https://i.imgur.com/cdNjoms.jpg)
 
 ## Description 
 
