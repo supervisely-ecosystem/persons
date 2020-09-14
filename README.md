@@ -36,9 +36,9 @@ Full version of `Persons Labeled ` contains 5711 images with annotated person in
 
 ## Download
 
-Sample (Supervisely format): [tar archive]() (145,4 MB).
+Sample (Supervisely format): [tar archive](https://cloud.enterprise.deepsystems.io/s/7VyML7ynZ9L1KEK/download) (1 GB).
 
-Full version (Supervisely format): [tar archive]() (1,5 GB).
+Full version (Supervisely format): [tar archive](https://cloud.enterprise.deepsystems.io/s/TK2z5TLYoAPl1w6/download) (7,3 GB).
 
 
 ## Statistics
