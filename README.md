@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/UdBujFN.png" width="250" /> <br>
 
-<img src="" width="100"/> 
+<img src="https://i.imgur.com/I4n16hd.png" width="100"/> 
 
 # Persons Labeled  
 
@@ -44,12 +44,10 @@ Full version (Supervisely format): [tar archive](https://cloud.enterprise.deepsy
 ## Statistics
 
 Sample project contains 595 images. 
-http://78.46.75.100:11111/apps/12/sessions/498
-![]()
+![](https://i.imgur.com/bOgZ3pr.png)
 
 The full version contains 5711 images. 
-http://78.46.75.100:11111/apps/12/sessions/499
-![]()
+![](https://i.imgur.com/SSb7DOe.png)
 
 ## Examples
 
