@@ -44,7 +44,7 @@ Full version (Supervisely format): [tar archive](https://cloud.enterprise.deepsy
 ## Statistics
 
 Sample project contains 595 images. 
-
+http://78.46.75.100:11111/apps/12/sessions/498
 ![]()
 
 The full version contains 5711 images. 
