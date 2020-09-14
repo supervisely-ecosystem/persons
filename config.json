@@ -1,0 +1,10 @@
+{
+  "name": "Persons",
+  "description": "Image project with person instances",
+  "type": "project",
+  "categories": [
+    "demo"
+  ],
+  "icon": "https://i.imgur.com/er8Yb2H.jpg",
+  "icon_cover": true
+}
