@@ -30,9 +30,12 @@ Full version of `Persons Labeled ` contains 5711 images with annotated person in
 
 ## Description 
 
-~~Cityscapes and Mapillary datasets are mostly about city environment. But there are a lot of cases when autonomous vehicles have to drive on country roads: autonomous harvesters, trucks and agriculture robots. Other reason why you can not use mentioned datasets for this task directly is that many classes (e.g. “road shoulder”) are marked as neutral. It leads to inaccurate prediction of drivable area on country roads. ~~
+Person segmentation is critical task in analysing humans on images for many real-world applications: action recognition, self-driving cars, video surveillance, mobile applications and much more.
 
-~~We believe this contribution will be useful for many researchers. We release 1000 labeled images and 500 test images. We tried to keep the variety of labeled images.~~
+We at Supervisely had our internal research on this field and we realized that there is a lack of data for this task. You can ask us: what about public datasets like COCO, Pascal, Mapillary and others? To answer this question i’ll better show you few examples from COCO dataset:
+![](https://hackernoon.com/hn-images/0*3pni76CDQK1RZqiw.)
+
+The quality of human segmentation in most public datasets is not satisfied our requirements and we had to create our own dataset with high quality annotations.
 
 ## Download
 
