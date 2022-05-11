@@ -13,7 +13,7 @@
   <a href="#download">Download</a> •
   <a href="#statistics">Statistics</a> •
   <a href="#examples">Examples</a> •
-  <a href="#how-to-import">How to Import</a> 
+  <a href="#license">License</a> 
 </p>
 
 [![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervise.ly/slack) 
