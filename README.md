@@ -58,6 +58,12 @@ The full version contains 5711 images.
 
 ![](https://i.imgur.com/he6jj4r.png) ![](https://i.imgur.com/pdgJwxs.png) ![](https://i.imgur.com/TS1uRFX.png)
 
-## How To Import
+## License
 
-...
+This Supervisely Person Dataset is made freely available to academic and non-academic entities for non-commercial purposes such as academic research, teaching, scientific publications, or personal experimentation.
+
+## Images Rights
+
+The Supervisely Person Dataset data includes images obtained from the "pexels" website. Use of these images must respect the corresponding terms of use:
+
+["pexels.com" terms of use](https://www.pexels.com/terms-of-service/)
