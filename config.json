@@ -3,7 +3,9 @@
   "description": "Image project with person instances",
   "type": "project",
   "categories": [
-    "demo"
+    "import",
+    "images",
+    "project"
   ],
   "icon": "https://i.imgur.com/4KBGJp0.jpg",
   "icon_cover": true
