@@ -1,8 +1,8 @@
 <div align="center" markdown> 
 
-<img src="https://i.imgur.com/UdBujFN.png" width="250" /> <br>
+<img src="media/eco.png" width="250" /> <br>
 
-<img src="https://i.imgur.com/I4n16hd.png" width="100"/> 
+<img src="media/icon.png" width="100"/> 
 
 # Persons Labeled  
 
@@ -28,14 +28,14 @@
 
 Full version of `Persons Labeled ` contains 5711 images with annotated person instances (see <a href="#download">download</a> section). This repository is a sample with 595 images. Read more in our <a href="https://hackernoon.com/releasing-supervisely-person-dataset-for-teaching-machines-to-segment-humans-1f1fc1f28469">blog post</a>.
 
-![](https://i.imgur.com/tIILD0v.jpg)
+![](media/ov.jpeg)
 
 ## Description 
 
 Person segmentation is critical task in analysing humans on images for many real-world applications: action recognition, self-driving cars, video surveillance, mobile applications and much more.
 
 We at Supervisely had our internal research on this field and we realized that there is a lack of data for this task. You can ask us: what about public datasets like COCO, Pascal, Mapillary and others? To answer this question i’ll better show you few examples from COCO dataset:
-![](https://hackernoon.com/hn-images/0*3pni76CDQK1RZqiw.)
+![](media/desc.png)
 
 The quality of human segmentation in most public datasets is not satisfied our requirements and we had to create our own dataset with high quality annotations.
 
@@ -49,14 +49,14 @@ Full version (Supervisely format): [tar archive](https://cloud.enterprise.deepsy
 ## Statistics
 
 Sample project contains 595 images. 
-![](https://i.imgur.com/bOgZ3pr.png)
+![](media/st1.png)
 
 The full version contains 5711 images. 
-![](https://i.imgur.com/SSb7DOe.png)
+![](media/st2.png)
 
 ## Examples
 
-![](https://i.imgur.com/he6jj4r.png) ![](https://i.imgur.com/pdgJwxs.png) ![](https://i.imgur.com/TS1uRFX.png)
+![](media/ex1.png) ![](media/ex2.png) ![](media/ex3.png)
 
 ## License
 
