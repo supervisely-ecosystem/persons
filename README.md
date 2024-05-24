@@ -41,7 +41,7 @@ The quality of human segmentation in most public datasets is not satisfied our r
 
 ## Download
 
-Sample (Supervisely format): [tar archive](https://cloud.enterprise.deepsystems.io/s/7VyML7ynZ9L1KEK/download) (1 GB).
+Sample (Supervisely format): [tar archive](https://github.com/supervisely-ecosystem/persons/releases/download/v0.9/project.zip) (1 GB).
 
 Full version (Supervisely format): [tar archive](https://cloud.enterprise.deepsystems.io/s/TK2z5TLYoAPl1w6/download) (7,3 GB).
 
